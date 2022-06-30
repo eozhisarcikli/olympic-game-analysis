@@ -1,1 +1,1 @@
-# olympic-game-analysis
+# Analysis of the Olympic Games
