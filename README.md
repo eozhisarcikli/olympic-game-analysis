@@ -12,10 +12,10 @@ about olympians and countries achievements.
 
 This study was carried out using the following four data sets;
 
-<u>summer.csv</u>
+*summer.csv*
 
-<u>winter.csv</u>
+*winter.csv*
 
-<u>dictionary.csv</u>
+*dictionary.csv*
 
-<u>track.csv</u>
+*track.csv*
