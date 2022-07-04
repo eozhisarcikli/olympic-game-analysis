@@ -10,12 +10,10 @@ about olympians and countries achievements.
 
 ## 2. Data
 
-This study was carried out using the following four data sets;
+This study was carried out using the following three data sets;
 
 *summer.csv*
 
 *winter.csv*
 
 *dictionary.csv*
-
-*track.csv*
