@@ -1,4 +1,4 @@
-Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+Year,City,Sport,Discipline,Athlete,Code,Gender,Event,Medal
 1924,Chamonix,Biathlon,Biathlon,"BERTHET, G.",FRA,Men,Military Patrol,Bronze
 1924,Chamonix,Biathlon,Biathlon,"MANDRILLON, C.",FRA,Men,Military Patrol,Bronze
 1924,Chamonix,Biathlon,Biathlon,"MANDRILLON, Maurice",FRA,Men,Military Patrol,Bronze
