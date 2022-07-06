@@ -13,11 +13,11 @@ about olympians and countries achievements.
 This study was carried out using the following three data sets;
 
 *summer.csv*  <br/>
--Year: Year of the Olympic in yyyy format<br/>
+-Year: Year of the Olympic in "yyyy" format<br/>
 -City: City ​​where the olympics took place<br/>
--Sport:  <br/>
+-Sport: The name of the sport that is the subject of the olympic<br/>
 -Discipline: Detail of the related Sport<br/>
--Athlete: Olympic athlete name and surname in SURNAME, Name format<br/>
+-Athlete: Olympic athlete name and surname in "SURNAME, Name" format<br/>
 -Code: Three letter shortcode showing where the olympic athlete is from<br/>
 -Gender: Gender of the olympic athlete (Male or Female) <br/>
 -Event: Detail of the related Discipline<br/>
@@ -26,7 +26,7 @@ This study was carried out using the following three data sets;
 *winter.csv* <br/>
 -Year: Year of the Olympic in yyyy format<br/>
 -City: City ​​where the olympics took place<br/>
--Sport:  <br/>
+-Sport: The name of the sport that is the subject of the olympic<br/>
 -Discipline: Detail of the related Sport<br/>
 -Athlete: Olympic athlete name and surname in SURNAME, Name format<br/>
 -Code: Three letter shortcode showing where the olympic athlete is from<br/>
@@ -39,3 +39,14 @@ This study was carried out using the following three data sets;
 -Code: Three letter shortcode showing where the olympic athlete is from<br/>
 -Population: The whole number of people or inhabitants in the related country<br/>
 -GDP per Capita:  It is the economic output of the related country per person<br/>
+
+## 3. Analysis
+
+### 3.1 Who
+
+### 3.2 When
+
+### 3.3 What
+
+### 3.4 Where
+
