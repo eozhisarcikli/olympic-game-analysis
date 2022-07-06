@@ -12,8 +12,30 @@ about olympians and countries achievements.
 
 This study was carried out using the following three data sets;
 
-*summer.csv*
+*summer.csv*  <br/>
+-Year:  <br/>
+-City:  <br/>
+-Sport:  <br/>
+-Discipline:  <br/>
+-Athlete:  <br/>
+-Code:  <br/>
+-Gender:  <br/>
+-Event:  <br/>
+-Medal:  <br/>
 
-*winter.csv*
+*winter.csv* <br/>
+-Year:  <br/>
+-City:  <br/>
+-Sport:  <br/>
+-Discipline:  <br/>
+-Athlete:  <br/>
+-Code:  <br/>
+-Gender:  <br/>
+-Event:  <br/>
+-Medal:  <br/>
 
-*dictionary.csv*
+*dictionary.csv* <br/>
+-Country:  <br/>
+-Code:  <br/>
+-Population:  <br/>
+-GDP per Capita:  <br/>
