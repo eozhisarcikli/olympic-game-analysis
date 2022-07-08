@@ -50,6 +50,14 @@ This study was carried out using the following three data sets;
 
 ### 3.2 When
 
+Word cloud about disciplines is below for summer olympics;
+
+<img src="image/when_summer.png" width="800" height="500">
+
+Word cloud about disciplines is below for winter olympics;
+
+<img src="image/when_winter.png" width="800" height="500">
+
 ### 3.3 What
 
 Word cloud about disciplines is below for summer olympics;
