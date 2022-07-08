@@ -52,28 +52,28 @@ This study was carried out using the following three data sets;
 
 Below graph shows the domination of the countries by year in summer olympics;
 
-<img src="image/when_summer.png" width="800" height="400">
+<img src="image/when_summer.png" width="900" height="400">
 
 Below graph shows the domination of the countries by year in winter olympics;
 
-<img src="image/when_winter.png" width="800" height="400">
+<img src="image/when_winter.png" width="900" height="400">
 
 ### 3.3 What
 
 Word cloud about disciplines is below for summer olympics;
 
-<img src="image/what_summer.png" width="800" height="500">
+<img src="image/what_summer.png" width="900" height="550">
 
 Word cloud about disciplines is below for winter olympics;
 
-<img src="image/what_winter.png" width="800" height="500">
+<img src="image/what_winter.png" width="900" height="550">
 
 ### 3.4 Where
 
 Below is the graphic showing where athletes from which sport are more successful in summer olympics;
 
-<img src="image/heatmap_summer.png" width="800" height="600">
+<img src="image/heatmap_summer.png" width="900" height="650">
 
 Below is the graphic showing where athletes from which sport are more successful in winter olympics;
 
-<img src="image/heatmap_winter.png" width="800" height="600">
+<img src="image/heatmap_winter.png" width="900" height="650">
