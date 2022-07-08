@@ -50,13 +50,13 @@ This study was carried out using the following three data sets;
 
 ### 3.2 When
 
-Word cloud about disciplines is below for summer olympics;
+Below graph shows the domination of the countries by year in summer olympics;
 
-<img src="image/when_summer.png" width="800" height="500">
+<img src="image/when_summer.png" width="800" height="300">
 
-Word cloud about disciplines is below for winter olympics;
+Below graph shows the domination of the countries by year in winter olympics;
 
-<img src="image/when_winter.png" width="800" height="500">
+<img src="image/when_winter.png" width="800" height="300">
 
 ### 3.3 What
 
@@ -70,10 +70,10 @@ Word cloud about disciplines is below for winter olympics;
 
 ### 3.4 Where
 
-Below is the graphic showing where athletes from which sport are more successful in the summer olympics;
+Below is the graphic showing where athletes from which sport are more successful in summer olympics;
 
 <img src="image/heatmap_summer.png" width="800" height="600">
 
-Below is the graphic showing where athletes from which sport are more successful in the winter olympics;
+Below is the graphic showing where athletes from which sport are more successful in winter olympics;
 
 <img src="image/heatmap_winter.png" width="800" height="600">
