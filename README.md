@@ -54,7 +54,7 @@ The highest decorated male athlete is Ole Einar Bjoerndalen with 13 medals and f
 
 Word cloud is below for summer olympics;
 
-(https://github.com/eozhisarcikli/olympic-game-analysis/blob/main/image/what_summer.png?raw=true)
+<img src="image/what_summer.png">
 
 ### 3.4 Where
 
