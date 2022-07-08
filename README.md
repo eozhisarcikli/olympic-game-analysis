@@ -64,8 +64,8 @@ Word cloud is below for winter olympics;
 
 Heatmap is below for summer olympics;
 
-<img src="image/heatmap_summer.png" width="800" height="800">
+<img src="image/heatmap_summer.png" width="800" height="600">
 
 Heatmap is below for winter olympics;
 
-<img src="image/heatmap_winter.png" width="800" height="800">
+<img src="image/heatmap_winter.png" width="800" height="600">
