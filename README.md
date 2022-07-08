@@ -44,28 +44,28 @@ This study was carried out using the following three data sets;
 
 ### 3.1 Who
 
-Michael Phelps, Aleksandr Dityatin and Heikki Savolainen are the athletes who won the most gold, silver and bronze medals, respectively.<br/>
-The highest decorated male athlete is Michael Phelps with 22 medals and female athlete is Larisa Latynina with 18 medals in Summer Olympics.<br/>
-The highest decorated male athlete is Ole Einar Bjoerndalen with 13 medals and female athlete is Stefania Belmondo with 10 medals in Winter Olympics.<br/>
+-Michael Phelps, Aleksandr Dityatin and Heikki Savolainen are the athletes who won the most gold, silver and bronze medals, respectively.<br/>
+-The highest decorated male athlete is Michael Phelps with 22 medals and female athlete is Larisa Latynina with 18 medals in summer olympics.<br/>
+-The highest decorated male athlete is Ole Einar Bjoerndalen with 13 medals and female athlete is Stefania Belmondo with 10 medals in winter olympics.<br/>
 
 ### 3.2 When
 
 ### 3.3 What
 
-Word cloud is below for summer olympics;
+Word cloud about disciplines is below for summer olympics;
 
 <img src="image/what_summer.png" width="800" height="500">
 
-Word cloud is below for winter olympics;
+Word cloud about disciplines is below for winter olympics;
 
 <img src="image/what_winter.png" width="800" height="500">
 
 ### 3.4 Where
 
-Heatmap is below for summer olympics;
+Below is the graphic showing where athletes from which sport are more successful in the summer olympics;
 
 <img src="image/heatmap_summer.png" width="800" height="600">
 
-Heatmap is below for winter olympics;
+Below is the graphic showing where athletes from which sport are more successful in the winter olympics;
 
 <img src="image/heatmap_winter.png" width="800" height="600">
