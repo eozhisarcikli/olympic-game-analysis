@@ -52,11 +52,11 @@ This study was carried out using the following three data sets;
 
 Below graph shows the domination of the countries by year in summer olympics;
 
-<img src="image/when_summer.png" width="800" height="300">
+<img src="image/when_summer.png" width="800" height="400">
 
 Below graph shows the domination of the countries by year in winter olympics;
 
-<img src="image/when_winter.png" width="800" height="300">
+<img src="image/when_winter.png" width="800" height="400">
 
 ### 3.3 What
 
