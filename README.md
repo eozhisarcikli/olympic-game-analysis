@@ -62,10 +62,10 @@ Word cloud is below for winter olympics;
 
 ### 3.4 Where
 
-Word cloud is below for summer olympics;
+Heatmap is below for summer olympics;
 
-<img src="image/heatmap_summer.png" width="800" height="500">
+<img src="image/heatmap_summer.png" width="800" height="800">
 
-Word cloud is below for winter olympics;
+Heatmap is below for winter olympics;
 
-<img src="image/heatmap_winter.png" width="800" height="500">
+<img src="image/heatmap_winter.png" width="800" height="800">
