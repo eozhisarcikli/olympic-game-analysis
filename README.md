@@ -71,10 +71,10 @@ Word cloud about disciplines is below for winter olympics;
 
 ### 3.4 Where
 
-Below is the graphic showing where athletes from which sport are more successful in summer olympics;
+The following heatmap shows where the athletes come from and in which sports they have won medals in summer olympics.
 
 <img src="image/heatmap_summer.png" width="900" height="650">
 
-Below is the graphic showing where athletes from which sport are more successful in winter olympics;
+The following heatmap shows where the athletes come from and in which sports they have won medals in winter olympics.
 
 <img src="image/heatmap_winter.png" width="900" height="650">
